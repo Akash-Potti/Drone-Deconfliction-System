@@ -1,0 +1,5 @@
+deconfliction_msgs/DroneTrajectory request_mission
+---
+string status
+string[] conflicting_drones
+deconfliction_msgs/Waypoint[] conflict_points

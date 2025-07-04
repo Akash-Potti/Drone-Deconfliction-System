@@ -1,0 +1,15 @@
+# ROS 2 build folders
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor folders
+.vscode/
+.idea/
+
+# Output data
+trajectory_data.json
