@@ -28,13 +28,11 @@ A modular and scalable airspace conflict detection system that simulates UAV tra
 
 1. Clone the repository:
    ```bash
-   mkdir -p ~/ros2_ws/src
-   cd ~/ros2_ws/src
    git clone https://github.com/Akash-Potti/Drone-Deconfliction-System.git
 
 2. Build the workspace
    ```bash
-    cd ~/ros2_ws
+    cd ~/Drone-Deconfliction-System-master
     colcon build
 3. Source the workspace
     ```bash
